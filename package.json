@@ -1,0 +1,10 @@
+{
+  "name": "user",
+  "version": "1.0.0",
+  "description": "hi",
+  "scripts": {
+    "start": "start cmd /k \"cd backend && npm run dev\" && start cmd /k \"cd frontend && npm run dev\""
+  },
+  "author": "",
+  "license": "ISC"
+}
